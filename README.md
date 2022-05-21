@@ -55,13 +55,13 @@ Node v6.0.0^
 - Clone o repositório com o comando **git clone**:
 
 ```
-git clone ...
+git clone https://github.com/Ariane-Brum/pharma-inc.git
 ```
 
 - Entre no diretório que acabou de ser criado:
 
 ```
-cd forever-baby
+cd pharma
 ```
 
 - Para o projeto funcionar na sua máquina, será necessário instalar suas dependências, para isso, utilize o comando **npm install**:
